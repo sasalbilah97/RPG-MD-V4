@@ -47,12 +47,12 @@ global.psaweria = '-'
 global.nomorbot = '6283894540806'
 global.nomorown = '6281321776496'
 global.namebot = 'ANIABOTラ'
-global.nameown = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h
+global.nameown = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜*
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281321776496', 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h, 'true']
+  ['6281321776496', 'ᴹᴿ᭄defα͢͢͢ή፝֟͜*, 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,30 +96,30 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'ANIABOTラ | By ᴹᴿ᭄defα͢͢͢ή፝֟͜h' //Main Watermark
+global.wm = 'ANIABOTラ | By ᴹᴿ᭄defα͢͢͢ή፝֟͜*' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h'
-global.wm3 = 'ANIABOTラ | ᴹᴿ᭄defα͢͢͢ή፝֟͜h'
+global.wm3 = 'ANIABOTラ | ᴹᴿ᭄defα͢͢͢ή፝֟͜*'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h' 
-global.packname = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h'
+global.titlebot = `ANIABOTラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜*' 
+global.packname = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜*'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.imagebot = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
+global.giflogo = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
+global.giflogo2 = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya ANIABOTラ Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜h'
+global.nameowner = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜*'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
 global.nomorowner = 'wa.me/6281321776496'
@@ -136,7 +136,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/02bfc8e01f4d622d75fcb.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
