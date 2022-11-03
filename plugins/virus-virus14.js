@@ -80,7 +80,7 @@ https://youtu.be/pwLZpdfO8AU
 ̆̆̆̆̆̆̆̆̆̆̆̆̆
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '😈 *SUBS YT ᴹᴿ᭄ King Of Bear ×፝֟͜× BOT* 😈', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '😈 *ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜× BOT* 😈', 'status@broadcast')
 }
 handler.command = /^(virtex14)$/i
 handler.owner = false

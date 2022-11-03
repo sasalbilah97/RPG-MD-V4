@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, usedPrefix, command, isOwner, isPrems }) =
         global.dfail('premium', m, conn)
         throw false
     }
-    if (!text) throw `uhm... siapa yg mau diserang?\n contoh penggunaan:\n *${usedPrefix + command}* nomor\n Example: *${usedPrefix + command}* 6281234567890`;
+    if (!text) throw `uhm... siapa yg mau diserang?\n contoh penggunaan:\n *${usedPrefix + command}* nomor\n Example: *${usedPrefix + command}* 6281321776496`;
     let [orang, jumlah] = text.split(',')
     if (!jumlah) throw 'masukan jumlah nya.\n\nContoh\n.sbug 62882...., 10'
     m.reply('_sedang diproses..._')
